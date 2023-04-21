@@ -1,5 +1,3 @@
-# Raymond Kneipp
-
 [![Portfolio](https://img.shields.io/badge/Portfolio%20Website-%23000000.svg?style=for-the-badge&logo=Astro)](https://raymondkneipp.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymondkneipp/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@raymondkneipp.com)
@@ -8,8 +6,6 @@
 - What I am working on: [ALPost](https://alpost.org)
 
 [![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondkneipp&count_private=true&show_icons=true&theme=transparent)](https://github.com/raymondkneipp)
-
-## Languages & Tools
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
