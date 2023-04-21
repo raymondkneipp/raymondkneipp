@@ -16,9 +16,9 @@
 	<img src="website.png" alt="website" width="45px"/>
 </a>
 
-[![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondkneipp&count_private=true&show_icons=true)](https://github.com/raymondkneipp)
+[![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondkneipp&count_private=true&show_icons=true&theme=transparent)](https://github.com/raymondkneipp)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondkneipp&layout=compact&langs_count=8)](https://github.com/raymondkneipp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondkneipp&layout=compact&langs_count=8&theme=transparent)](https://github.com/raymondkneipp)
 
 </div>
 </div>
