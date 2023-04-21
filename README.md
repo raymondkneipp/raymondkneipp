@@ -1,13 +1,9 @@
-# Raymond Kneipp - Full Stack Web Developer
-
-## Ways to Reach Out
+# Raymond Kneipp
 
 [![Portfolio](https://img.shields.io/badge/Portfolio%20Website-%23000000.svg?style=for-the-badge&logo=Astro)](https://raymondkneipp.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymondkneipp/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@raymondkneipp.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rfkquery)
-
-Hey, my name is Raymond Kneipp. I am from Cincinnati, Ohio. I am a Full Stack Web Developer and United States Marine with a passion for build things.
 
 - What I am working on: [ALPost](https://alpost.org)
 
