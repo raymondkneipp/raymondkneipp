@@ -7,7 +7,7 @@
 
 [![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondkneipp&count_private=true&show_icons=true&theme=transparent)](https://github.com/raymondkneipp)
 
-## My Tech Stack
+### My Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
@@ -20,6 +20,8 @@
 <details>
 <summary>More</summary>
 <br/>
+
+### Some other languages / tools I have used
 
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
