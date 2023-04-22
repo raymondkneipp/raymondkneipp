@@ -19,9 +19,8 @@
 
 <details>
 <summary>More</summary>
-<br/>
 
-### Some other languages / tools I have used
+### Other Languages / Tools I Use
 
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
