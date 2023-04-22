@@ -3,9 +3,11 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@raymondkneipp.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rfkquery)
 
-- What I am currently working on: [ALPost](https://alpost.org)
+- What I am currently working on: [ALPost (https://alpost.org)](https://alpost.org)
 
 [![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondkneipp&count_private=true&show_icons=true&theme=transparent)](https://github.com/raymondkneipp)
+
+## My Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
