@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer** · Cincinnati, OH · Marine Corps Veteran
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-raymondkneipp.com-FBBF24?style=for-the-badge&logo=tanstack&logoColor=FBBF24&labelColor=1c1917)](https://raymondkneipp.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-raymondkneipp.com-a995c9?style=for-the-badge&logo=tanstack&logoColor=a995c9&labelColor=1b1823)](https://raymondkneipp.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raymondkneipp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/raymondkneipp/)
 [![Email](https://img.shields.io/badge/Email-hello@raymondkneipp.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:hello@raymondkneipp.com)
 
