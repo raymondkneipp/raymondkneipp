@@ -4,13 +4,12 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-raymondkneipp.com-a995c9?style=for-the-badge&logo=tanstack&logoColor=a995c9&labelColor=1b1823)](https://raymondkneipp.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raymondkneipp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/raymondkneipp/)
-[![Email](https://img.shields.io/badge/Email-hello@raymondkneipp.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:hello@raymondkneipp.com)
 
 ---
 
-8+ years building production web applications. I focus on shipping reliable, well-crafted software — from solo side projects to team-based SaaS platforms. Former Marine, currently studying Computer Science at WGU.
+8+ years building production web applications. I focus on shipping reliable, well-crafted software, from solo side projects to team-based SaaS platforms. Former Marine, currently studying Computer Science at WGU.
 
-**Currently building:** [ALPost](https://alpost.org) — a website builder and management platform for American Legion posts, with 17+ paying organizations.
+**Currently building:** [ALPost](https://alpost.org), a website builder and management platform for American Legion posts, with 17+ paying organizations.
 
 ---
 
