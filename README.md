@@ -9,7 +9,7 @@
 
 8+ years building production web applications. I focus on shipping reliable, well-crafted software, from solo side projects to team-based SaaS platforms. Former Marine, currently studying Computer Science at WGU.
 
-**Currently building:** [ALPost](https://alpost.org), a website builder and management platform for American Legion posts, with 17+ paying organizations.
+**Currently building:** [ALPost](https://alpost.org), a website builder and management platform for American Legion posts, with 19+ paying organizations.
 
 ---
 
